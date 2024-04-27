@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-27T02:11:29 IST" name="Default suite" finished-at="2024-04-27T02:11:31 IST" duration-ms="2644">
+    <groups>
+    </groups>
+    <test started-at="2024-04-27T02:11:29 IST" name="Default test" finished-at="2024-04-27T02:11:31 IST" duration-ms="2644">
+      <class name="Session04.CheckForValidResponse">
+        <test-method signature="GetSingleUser()[pri:0, instance:Session04.CheckForValidResponse@6bd61f98]" started-at="2024-04-27T02:11:29 IST" name="GetSingleUser" finished-at="2024-04-27T02:11:31 IST" duration-ms="2604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetSingleUser -->
+      </class> <!-- Session04.CheckForValidResponse -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
